@@ -1,0 +1,20 @@
+print ('Welcome!')
+pincode = input('Please enter your PIN code')
+print ('1 = Withdraw')
+print ('2 = Deposit')
+print ('3 = Balance enquiry')
+operation = input('Please select your operation')
+if operation == 1:
+  withdrawvalue = input('How much do you want to withdraw?')
+  print ('Withdrawing...')
+  print (withdrawvalue)
+  print ('Thank you for coming. Goodbye!')
+elif operation == 2:
+  depositvalue =input('How much do you want to deposit?')
+  print ('Please insert your bank notes')
+  print ('You made a deposit of...')
+  print (depositvalue)
+  print('Thank you for coming. Goodbye!')
+else :
+  print('We are printing the balance of your account')
+  print('Goodbye!')
