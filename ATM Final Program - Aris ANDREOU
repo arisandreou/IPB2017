@@ -1,6 +1,5 @@
 Pending issues :
-- Number Pad (calculator) is not connected to the ATM program itself (still need to type the requests on Python, and not on the pad)
-- Cannot display input or dynamic values on information and error messages. 
+- Number Pad (calculator) is not connected to the ATM program itself (still need to type the requests on Python, and not on the pad). If attempt to connect, it crashes
 
 
 
